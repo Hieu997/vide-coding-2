@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+.claude-flow/
+.claude/settings.local.json
